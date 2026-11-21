@@ -1,5 +1,5 @@
 # Sulochana - One with Beautiful Eyes
 
-Photography.
+Photography, with video to follow if needed.
 
 Founded by [Pratik Karanje](https://github.com/pkaranje).
